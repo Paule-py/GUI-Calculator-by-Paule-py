@@ -1,3 +1,5 @@
+# Coded by Paule-Py
+
 import tkinter
 import time
 
